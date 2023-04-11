@@ -1,0 +1,14 @@
+{
+  "name": "writetests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose",
+    "coverage": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "jest-each": "^29.5.0"
+  }
+}
